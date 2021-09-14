@@ -1,0 +1,31 @@
+body{
+    background-color:lightblue ;
+}
+.titulo{
+    text-align: right;
+}
+.texto{
+    text-align: right;
+    text-indent: 20px;
+}
+.sub{
+    font-size: 40px;
+    text-indent: 20px;
+}
+.subdos{
+    font-size: 30px;
+    font-size: 40px;
+}
+.subtres{
+    font-size: 30px;
+    font-size: 40px;
+}
+#lugar{
+    text-align: center;
+}
+#firma{
+    text-align: center;
+    font-family: "Contra", sans-serif;
+    font-style: italic;
+    
+}

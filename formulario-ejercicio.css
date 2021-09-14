@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/f7/07/d6/f707d6f3fdc58cf63e067995b60cb948.gif");
+    background-size: cover;
+}
+.titulo{
+    text-align: center;
+    color: palevioletred;
+    background-color:paleturquoise;
+    border: 5px solid palevioletred;
+    font-size: 60px;
+}
+.formulario{
+    text-align: center;
+    font-style: italic;
+}
+#form{
+    background-color: lavender;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
