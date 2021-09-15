@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/e6/9b/67/e69b6702b679c7ef0a3531b765bd905e.jpg");
+    background-size: cover;
+}
+#quien{
+    background-color: hotpink;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+#que{
+    background-color: hotpink;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+#lista{
+    background-image: url("https://i.pinimg.com/564x/19/67/ab/1967abd1df85721314ee011151baf386.jpg");
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    
+  
+}
+#form{
+    background-color: lavender;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+#links{
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 20px;
+}
+#imag{
+    text-align: center;
+}
